@@ -26,7 +26,16 @@
   - ⚡I like reading, whether it's a good book, comics, as well as watching movies and playing online games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
 </details>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8soqbzlnkh1wpys7kf39f5kyh&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=8soqbzlnkh1wpys7kf39f5kyh&redirect=true)
+
+<div style="display: flex; align-items: center;">
+  <a href="https://open.spotify.com/intl-pt/track/0uYmQ3X53P03KWj83u5I59?si=ba1e0d0da1d5466a" target="_blank" style="margin-right: 10px;">
+    <img src="https://i.imgur.com/YpIIuSR.png" alt="Trust Nobody" width="90" height="90" style="border-radius: 50%;" />
+  </a>
+  <div style="display: flex; flex-direction: column; margin-left: 10px;">
+    <div style="font-size: 16px; font-weight: bold; margin: 0;">Trust Nobody</div>
+    <div style="font-size: 14px; margin: 0; padding-top: 2px;">Hippie Sabotage</div>
+  </div>
+</div>
 
 <hr/>
 
