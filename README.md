@@ -26,8 +26,7 @@
   - ⚡I like reading, whether it's a good book, comics, as well as watching movies and playing online games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
 </details>
 
-<br clear="both">
-
+<hr/>
 
 
 <div align="left"> 
@@ -49,16 +48,27 @@
 </div>
 
 
+<hr/>
+
 <div align="left">
   <img height="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
 </div>
 
-###
 
-<h3 align="left">🔥 Skills </h3>
+<h2 align="left">🔥 Skills </h2>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
+  
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  </div>
+  
 
 ###
