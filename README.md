@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Artur!;&color=2aa889" />
 </h1>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8soqbzlnkh1wpys7kf39f5kyh&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=8soqbzlnkh1wpys7kf39f5kyh&redirect=true)
 
 <!-- Presentation -->
 <p>
@@ -26,6 +25,8 @@
 
   - ⚡I like reading, whether it's a good book, comics, as well as watching movies and playing online games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
 </details>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8soqbzlnkh1wpys7kf39f5kyh&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=8soqbzlnkh1wpys7kf39f5kyh&redirect=true)
 
 <hr/>
 
