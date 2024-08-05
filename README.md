@@ -54,7 +54,8 @@
 
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroagrl&show_icons=true&theme=gotham)<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroagrl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroagrl&show_icons=true&theme=gotham)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroagrl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
