@@ -27,16 +27,6 @@
 </details>
 
 
-<div style="display: flex; align-items: center;">
-  <a href="https://open.spotify.com/intl-pt/track/0uYmQ3X53P03KWj83u5I59?si=ba1e0d0da1d5466a" target="_blank" style="margin-right: 10px;">
-    <img src="https://i.imgur.com/YpIIuSR.png" alt="Trust Nobody" width="90" height="90" style="border-radius: 50%;" />
-  </a>
-  <div style="display: flex; flex-direction: column; margin-left: 10px;">
-    <div style="font-size: 16px; margin: 0;"><strong>Trust Nobody</strong></div>
-    <div style="font-size: 14px; margin: 0; padding-top: 2px;">Hippie Sabotage</div>
-  </div>
-</div>
-
 <hr/>
 
 
