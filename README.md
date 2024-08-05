@@ -8,7 +8,7 @@
 <p>
  💻 A passionate Computer Science student from Fortaleza, CE, Brazil
 
-  - 🌱 I'm currently studying Python, Java and HTML.
+  - 🌱 I'm currently studying Python, JavaScript and HTML.
 
   - 🔭 I'm looking for my first job opportunity. My dream is to one day work in Data Science and AI.
 
