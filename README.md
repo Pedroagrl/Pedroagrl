@@ -21,7 +21,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I'm 18 years old and currently live in Brazil. I'm a beginner in English at the moment, I have experience with Python and starting to develop my knowledge in Java. I have also worked with digital marketing for a moment in my life, during this period, I developed and implemented online marketing strategies, managed advertising campaigns and optimized the digital presence to maximize sales conversion, including my great interaction with the public.
+  - 💬 I'm 18 years old and currently live in Brazil. I'm a beginner in English at the moment, I have experience with Python and starting to develop my knowledge in JavaScript. I have also worked with digital marketing, during this period, I developed and implemented online marketing strategies, managed advertising campaigns and optimized the digital presence to maximize sales conversion, including my great interaction with the public.
 
   - ⚡I like reading, whether it's a good book, comics, as well as watching movies and playing online games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
 </details>
