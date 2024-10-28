@@ -10,7 +10,7 @@
 
   - 🌱 I'm currently studying Python, JavaScript and HTML.
 
-  - 🔭 I'm looking for my first job opportunity. My dream is to one day work in Data Science and AI.
+  - 🔭 I'm looking for my first job opportunity. My dream is to one day work in Data Science and IA.
 
   - 📞 **Contact me by clicking [here](https://www.linkedin.com/in/pedroartur06/)**
 
