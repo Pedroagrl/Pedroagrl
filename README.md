@@ -21,7 +21,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I'm 18 years old and currently live in Brazil. I'm a beginner in English at the moment, I have experience with Python and starting to develop my knowledge in JavaScript. 
+  - 💬 I'm 19 years old and currently live in Brazil. I'm a beginner in English at the moment, I have experience with Python and starting to develop my knowledge in JavaScript. 
 
   - ⚡I like reading, whether it's a good book, comics, as well as watching movies and playing online games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
 </details>
