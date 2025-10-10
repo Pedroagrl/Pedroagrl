@@ -8,9 +8,7 @@
 <p>
  💻 A passionate Computer Science student from Fortaleza, CE, Brazil
 
-  - 🌱 I'm currently studying Python, JavaScript and HTML.
-
-  - 🔭 I'm looking for my first job opportunity. My dream is to one day work in Data Science and Back-end Developer.
+  - 🌱 I'm currently studying back-end and starting Data Science in Python.
 
   - 📞 **Contact me by clicking [here](https://www.linkedin.com/in/pedroartur06/)**
 
@@ -21,7 +19,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I'm 19 years old and currently live in Brazil. I'm a beginner in English at the moment, I have experience with Python and starting to develop my knowledge in JavaScript. 
+  - 💬 💬 I'm 19 years old and currently live in Brazil. I'm a beginner in English, have some experience in back-end with Python, and am beginning to develop my knowledge in Data Science.
 
   - ⚡I like reading, whether it's a good book, comics, as well as watching movies and playing online games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
 </details>
