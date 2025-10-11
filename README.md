@@ -34,12 +34,13 @@
   
   <!-- FastAPI -->
   <img alt="FastAPI" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+
+    <!-- JavaScript -->
+  <img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
   
   <!-- Git -->
   <img alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   
-  <!-- JavaScript -->
-  <img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 </div>
 
 <hr/>
