@@ -23,7 +23,7 @@
 <hr/>
 
 <!-- SKILLS -->
-<h2 align="left">🔥 Skills </h2>
+<h3 align="left">🔥 Skills </h3>
 
 <p align="left">
   <!-- Python -->
