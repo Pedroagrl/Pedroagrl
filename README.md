@@ -1,126 +1,61 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Overboard GitHub</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: #0f111a;
-            color: #fff;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: flex-start;
-            min-height: 100vh;
-            margin: 0;
-            padding: 20px;
-        }
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Artur!;&color=2aa889" />
+</h1>
 
-        .typing-title {
-            font-family: 'Righteous', cursive;
-            font-size: 2.5rem;
-            margin-bottom: 20px;
-        }
+<!-- Presentation -->
+<p>
+ 💻 A passionate Computer Science student from Fortaleza, CE, Brazil
 
-        .profile-image {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            border: 3px solid #fff;
-            object-fit: cover;
-            margin-bottom: 20px;
-        }
+ - 🌱 Currently studying Back-end and starting Data Science with Python.
 
-        .skills, .socials {
-            display: flex;
-            gap: 20px;
-            flex-wrap: wrap;
-            justify-content: center;
-            margin-bottom: 30px;
-        }
+ - 📞 **Contact me by clicking [here](https://www.linkedin.com/in/pedroartur06/)**.
+</p>
 
-        .skill, .social {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            cursor: pointer;
-            transition: transform 0.2s;
-        }
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
 
-        .skill:hover, .social:hover {
-            transform: scale(1.1);
-        }
+ - 💬 I'm 19 years old, living in Brazil. Beginner in English, some experience in Back-end with Python, and starting to learn Data Science.
 
-        .skill i, .social i {
-            font-size: 2.5rem;
-            margin-bottom: 5px;
-            color: #00bfff;
-        }
+ - ⚡ I like reading (books, comics), watching movies, and playing online games. Personal interests help me solve problems creatively.
+</details>
 
-        .social i {
-            color: #f0f0f0;
-        }
+<hr/>
 
-        .social span {
-            margin-top: 5px;
-            font-size: 0.9rem;
-        }
+<!-- SKILLS -->
+<h2 align="left">🔥 Skills </h2>
 
-        hr {
-            width: 80%;
-            border: 0;
-            height: 1px;
-            background: #555;
-            margin-bottom: 30px;
-        }
+<p align="left">
+  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+  <img alt="FastAPI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+</p>
 
-        .about {
-            max-width: 600px;
-            text-align: center;
-            line-height: 1.6;
-            margin-bottom: 40px;
-        }
+<!-- SOCIAL LINKS with skills overlay -->
+<h2 align="left">🌐 Contact & Social</h2>
 
-        a {
-            text-decoration: none;
-            color: inherit;
-        }
-    </style>
-</head>
-<body>
-    <h1 class="typing-title">Olá, eu sou Pedro!</h1>
-    <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Foto de Perfil" class="profile-image">
+<p align="left">
+  <a href="mailto:pedroarturdev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/pedroartur06/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-    <div class="skills">
-        <div class="skill"><i class="fab fa-python"></i>Python</div>
-        <div class="skill"><i class="fab fa-js-square"></i>JavaScript</div>
-        <div class="skill"><i class="fab fa-react"></i>React</div>
-        <div class="skill"><i class="fas fa-database"></i>SQL</div>
-        <div class="skill"><i class="fab fa-github"></i>GitHub</div>
-    </div>
+<br clear="both">
 
-    <hr>
+<!-- GitHub Stats -->
+<p align="center">
+  ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroagrl&show_icons=true&theme=gotham)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroagrl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham" height="150" alt="Languages Graph" />
+</p>
 
-    <div class="socials">
-        <a href="mailto:seuemail@gmail.com" class="social" target="_blank">
-            <i class="fas fa-envelope"></i>
-            <span>Email</span>
-        </a>
-        <a href="https://www.linkedin.com/in/seulinkedin" class="social" target="_blank">
-            <i class="fab fa-linkedin"></i>
-            <span>LinkedIn</span>
-        </a>
-        <a href="https://github.com/seugithub" class="social" target="_blank">
-            <i class="fab fa-github"></i>
-            <span>GitHub</span>
-        </a>
-    </div>
+<hr/>
 
-    <div class="about">
-        <p>Sou estudante de Ciência da Computação com experiência em Back-end Python e desenvolvimento de projetos inovadores. Busco aprender continuamente e contribuir para projetos desafiadores.</p>
-    </div>
-</body>
-</html>
+<!-- GIF Section -->
+<div align="center">
+  <img height="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+</div>
