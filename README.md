@@ -36,6 +36,9 @@
   <!-- JavaScript -->
   <img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
   
+  <!-- Excel -->
+  <img alt="Excel" height="60" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=FFFFFF" />
+  
   <!-- Git -->
   <img alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
@@ -43,7 +46,7 @@
 <hr/>
 
 <!-- SOCIAL LINKS -->
-<div style="display: flex; gap: 15px; align-items: center;">
+<div style="display: flex; gap: 15px; align-items: center; margin-bottom: 20px;">
   <a href="mailto:pedroarturdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
