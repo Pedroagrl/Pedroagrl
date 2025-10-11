@@ -22,6 +22,29 @@
 
 <hr/>
 
+<!-- SKILLS -->
+<h2 align="left">🔥 Skills </h2>
+
+<p align="left">
+  <!-- Python -->
+  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  
+  <!-- Git -->
+  <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+  <!-- GitHub -->
+  <img alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
+  <!-- AWS -->
+  <img alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+
+  <!-- API (FastAPI) -->
+  <img alt="FastAPI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+</p>
+
+<hr/>
+
+<!-- SOCIAL LINKS -->
 <div align="left"> 
   <a href="mailto:pedroarturdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -42,22 +65,3 @@
 <div align="left">
   <img height="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
 </div>
-
-<h2 align="left">🔥 Skills </h2>
-
-<p align="left">
-  <!-- Python -->
-  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  
-  <!-- Git -->
-  <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-  <!-- GitHub -->
-  <img alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-
-  <!-- AWS -->
-  <img alt="AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
-
-  <!-- API (FastAPI) -->
-  <img alt="FastAPI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
-</p>
