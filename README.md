@@ -23,25 +23,24 @@
 <hr/>
 
 <!-- SKILLS -->
-<h3 align="left">🔥 Skills </h2>
+<h3 align="left">🔥 Skills</h3>
 
-<p align="left">
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <!-- Python -->
   <img alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-
-    <!-- AWS -->
+  
+  <!-- AWS -->
   <img alt="AWS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-
-    <!-- API (FastAPI) -->
+  
+  <!-- FastAPI -->
   <img alt="FastAPI" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
   
   <!-- Git -->
   <img alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
+  
   <!-- JavaScript -->
- <img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-
-</p>
+  <img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+</div>
 
 <hr/>
 
