@@ -35,9 +35,6 @@
   
   <!-- JavaScript -->
   <img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-  
-  <!-- Excel -->
-  <img alt="Excel" height="60" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=FFFFFF" />
 
   <!-- Git -->
   <img alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
