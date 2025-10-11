@@ -42,6 +42,8 @@
   <img alt="FastAPI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
 </p>
 
+<hr/>
+
 <!-- SOCIAL LINKS -->
 <div align="left"> 
   <a href="mailto:pedroarturdev@gmail.com">
