@@ -37,7 +37,7 @@
   <img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
   
   <!-- Excel -->
-  <img alt="Excel" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg"/>
+  <img alt="Excel" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg"/>
 
   <!-- Git -->
   <img alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
