@@ -1,13 +1,13 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Artur!;&color=2aa889" />
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Artur!;&color=2aa889" />
 </h1>
 
 <!-- Presentation -->
-<p align="center">
+<p align="left">
   💻 A passionate Computer Science student from Fortaleza, CE, Brazil
 </p>
 
-<p align="center">
+<p align="left">
   🌱 I'm currently studying back-end and starting Data Science in Python.<br/>
   📞 <strong>Contact me by clicking
     <a href="https://www.linkedin.com/in/pedroartur06/" target="_blank">here</a>
@@ -27,47 +27,28 @@
 <!-- SKILLS -->
 <h3 align="left">🔥 Skills</h3>
 
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <!-- Python -->
-  <img alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  
-  <!-- AWS -->
-  <img alt="AWS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-  
-  <!-- FastAPI -->
-  <img alt="FastAPI" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
-  
-  <!-- JavaScript -->
-  <img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-
-  <!-- Git -->
-  <img alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=ff9900" />
-  <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" height="28" />
+  <img src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=ff9900" height="28" />
+  <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" height="28" />
 </p>
 
 <hr/>
 
 <!-- SOCIAL LINKS -->
-<div align="center" style="display: flex; gap: 15px; align-items: center; margin-bottom: 20px;">
+<div align="left" style="display: flex; gap: 15px; align-items: center; margin-bottom: 20px;">
   <a href="mailto:pedroarturdev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/pedroartur06/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
 <!-- GithubStats -->
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; justify-content: center;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; justify-content: flex-start;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=pedroagrl&show_icons=true&theme=gotham&cache_seconds=3600" 
     alt="Pedro's GitHub stats"
@@ -81,6 +62,6 @@
 
 <hr/>
 
-<div align="center">
+<div align="left">
   <img height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </div>
