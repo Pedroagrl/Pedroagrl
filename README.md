@@ -9,6 +9,7 @@
 
 <p align="left">
   🌱 I'm currently studying back-end and starting Data Science in Python.<br/>
+  
   📞 <strong>Contact me by clicking
     <a href="https://www.linkedin.com/in/pedroartur06/" target="_blank">here</a>
   </strong>
