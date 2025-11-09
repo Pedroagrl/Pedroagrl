@@ -28,24 +28,24 @@
 <h3 align="left">🔥 Skills</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" height="28" />
-  <img src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="28" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=ff9900" height="28" />
-  <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" height="40" />
+  <img src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="40" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=ff9900" height="40" />
+  <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" height="40" />
+</p>
+
+<!-- SOCIAL LINKS (inside skills section) -->
+<p align="left">
+  <a href="mailto:pedroarturdev@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=red" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/pedroartur06/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
+  </a>
 </p>
 
 <hr/>
-
-<!-- SOCIAL LINKS -->
-<div align="left" style="display: flex; gap: 15px; align-items: center; margin-bottom: 20px;">
-  <a href="mailto:pedroarturdev@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/pedroartur06/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
 
 <!-- GithubStats -->
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; justify-content: flex-start;">
