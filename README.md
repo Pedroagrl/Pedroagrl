@@ -3,19 +3,23 @@
 </h1>
 
 <!-- Presentation -->
-<p>
- 💻 A passionate Computer Science student from Fortaleza, CE, Brazil
+<p align="center">
+  💻 A passionate Computer Science student from Fortaleza, CE, Brazil
+</p>
 
- - 🌱 I'm currently studying back-end and starting Data Science in Python.
- - 📞 **Contact me by clicking [here](https://www.linkedin.com/in/pedroartur06/)**
+<p align="center">
+  🌱 I'm currently studying back-end and starting Data Science in Python.<br/>
+  📞 <strong>Contact me by clicking
+    <a href="https://www.linkedin.com/in/pedroartur06/" target="_blank">here</a>
+  </strong>
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
- - 💬 I'm 19 years old and currently live in Brazil. I'm a beginner in English, have some experience in back-end with Python, and am beginning to develop my knowledge in Data Science.
- - ⚡ I like reading, whether it's a good book, comics, as well as watching movies and playing online games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
+  - 💬 I'm 19 years old and currently live in Brazil. I'm a beginner in English, have some experience in back-end with Python, and am beginning to develop my knowledge in Data Science.  
+  - ⚡ I like reading, whether it's a good book, comics, as well as watching movies and playing online games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
 </details>
 
 <hr/>
@@ -40,10 +44,20 @@
   <img alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
 
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=ff9900" />
+  <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" />
+</p>
+
 <hr/>
 
 <!-- SOCIAL LINKS -->
-<div style="display: flex; gap: 15px; align-items: center; margin-bottom: 20px;">
+<div align="center" style="display: flex; gap: 15px; align-items: center; margin-bottom: 20px;">
   <a href="mailto:pedroarturdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -53,13 +67,20 @@
 </div>
 
 <!-- GithubStats -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroagrl&show_icons=true&theme=gotham" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroagrl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph" />
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; justify-content: center;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=pedroagrl&show_icons=true&theme=gotham&cache_seconds=3600" 
+    alt="Pedro's GitHub stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroagrl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&cache_seconds=3600" 
+    height="150" 
+    alt="languages graph" 
+  />
 </div>
 
 <hr/>
 
-<div align="left">
-  <img height="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<div align="center">
+  <img height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </div>
