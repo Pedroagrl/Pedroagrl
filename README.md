@@ -1,26 +1,26 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Artur!;&color=2aa889" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Artur!;&color=2aa889" />
 </h1>
 
 <!-- Presentation -->
 <p align="left">
-  💻 A passionate Computer Science student from Fortaleza, CE, Brazil
+  📊 Data Science & Data Analysis Student based in Fortaleza, CE – Brazil.
 </p>
 
 <p align="left">
-  🌱 I'm currently studying back-end and starting Data Science in Python.<br/>
-  
-  📞 <strong>Contact me by clicking
-    <a href="https://www.linkedin.com/in/pedroartur06/" target="_blank">here</a>
-  </strong>
+  🌱 Currently focused on Python for Data, SQL, ETL, Power BI and analytics.<br/>
+  🚀 Passionate about transforming data into insights and solving problems through analysis.<br/>
 </p>
 
-<!-- Dropdown -->
+<!-- DROPDOWN -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I'm 19 years old and currently live in Brazil. I'm a beginner in English, have some experience in back-end with Python, and am beginning to develop my knowledge in Data Science.  
-  - ⚡ I like reading, whether it's a good book, comics, as well as watching movies and playing online games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
+  - 🎓 Studying Computer Science (UNIFOR).
+  - 📈 Growing skills in Data Analysis, ETL, SQL, Python and Power BI.
+  - 🧪 Experience with backend in Python and API development (FastAPI).
+  - 🎲 Interested in analytics, dashboards, KPIs and data-driven decisions.
+  - 🎮 In free time: coding, reading, watching movies and gaming.
 </details>
 
 <hr/>
@@ -29,26 +29,28 @@
 <h3 align="left">🔥 Skills</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" height="50" />
-  <img src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white" height="50" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="50" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=ff9900" height="50" />
-  <img src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40" />
+  <img src="https://img.shields.io/badge/ETL-333333?style=for-the-badge" height="40" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white" height="40" />
 </p>
 
-<!-- CONTACT (inside skills section) -->
+<!-- CONTACTS (inside skills) -->
 <p align="left">
   <a href="mailto:pedroarturdev@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=red" height="38" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="38" />
   </a>
   <a href="https://www.linkedin.com/in/pedroartur06/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
   </a>
 </p>
 
 <hr/>
 
-<!-- GithubStats -->
+<!-- Github Stats -->
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; justify-content: flex-start;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=pedroagrl&show_icons=true&theme=gotham&cache_seconds=3600" 
