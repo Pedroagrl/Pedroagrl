@@ -9,9 +9,7 @@
 
 <p align="left">
   🌱 Currently focused on Python for Data, SQL, ETL, Power BI and analytics.<br/>
-  
-  🚀 Passionate about transforming data into insights and solving problems through analysis.<br/>
-    
+      
   📞 <strong>Contact me by clicking
     <a href="https://www.linkedin.com/in/pedroartur06/" target="_blank">here</a>
   </strong>
@@ -22,7 +20,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
   
-  - 📈 Growing skills in Data Analysis, ETL, SQL, Python and Power BI, with strong interest in analytics and dashboards.
+  - 📈 I am 19 years old, currently living in Brazil, and developing skills in Data Analysis, ETL, SQL, Python, and Power BI, with a strong interest in analytics and dashboards.
   - 🧪 Experience with backend in Python and API development (FastAPI).
   - ⚡ I like reading, whether it's a good book, comics, as well as watching movies and playing online games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
 </details>
