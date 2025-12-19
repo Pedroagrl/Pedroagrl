@@ -60,7 +60,7 @@
       <img 
         src="https://github-readme-stats.vercel.app/api?username=pedroagrl&show_icons=true&theme=gotham&cache_seconds=3600"
         alt="Pedro Artur's GitHub stats"
-        width="420"
+        width="480"
       />
     </td>
     <td align="center">
