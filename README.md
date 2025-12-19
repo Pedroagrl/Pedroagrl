@@ -51,26 +51,24 @@
 
 <hr/>
 
-<!-- GITHUB STATS + DASHBOARD -->
+<!-- GITHUB ACTIVITY + ANALYTICS -->
 <h3 align="center">📊 GitHub Activity & Analytics</h3>
 
-<div 
-  align="center" 
-  style="display: flex; flex-wrap: wrap; gap: 30px; margin-top: 20px; justify-content: center; align-items: center;"
->
-
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=pedroagrl&show_icons=true&theme=gotham&cache_seconds=3600"
-    alt="Pedro's GitHub stats"
-    height="200"
-  />
-
-  <!-- Dashboard Image -->
-  <img 
-    src="https://cdn.dribbble.com/userupload/19599497/file/original-f7b3e9e0794f0b580a84f09407b2e3ec.gif"
-    alt="Analytics Dashboard Preview"
-    height="200"
-  />
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=pedroagrl&show_icons=true&theme=gotham&cache_seconds=3600"
+        alt="Pedro Artur's GitHub stats"
+        width="420"
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://cdn.dribbble.com/userupload/19599497/file/original-f7b3e9e0794f0b580a84f09407b2e3ec.gif"
+        alt="Analytics Dashboard Preview"
+        width="420"
+      />
+    </td>
+  </tr>
+</table>
