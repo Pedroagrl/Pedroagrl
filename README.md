@@ -52,7 +52,6 @@
 <hr/>
 
 <!-- GITHUB ACTIVITY + ANALYTICS -->
-<h3 align="center">📊 GitHub Activity & Analytics</h3>
 
 <table align="center">
   <tr>
