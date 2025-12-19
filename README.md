@@ -51,26 +51,26 @@
 
 <hr/>
 
-<!-- GitHub Stats -->
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; justify-content: flex-start;">
+<!-- GITHUB STATS + DASHBOARD -->
+<h3 align="center">📊 GitHub Activity & Analytics</h3>
+
+<div 
+  align="center" 
+  style="display: flex; flex-wrap: wrap; gap: 30px; margin-top: 20px; justify-content: center; align-items: center;"
+>
+
+  <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=pedroagrl&show_icons=true&theme=gotham&cache_seconds=3600" 
+    src="https://github-readme-stats.vercel.app/api?username=pedroagrl&show_icons=true&theme=gotham&cache_seconds=3600"
     alt="Pedro's GitHub stats"
+    height="200"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroagrl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&cache_seconds=3600" 
-    height="150" 
-    alt="languages graph" 
-  />
-</div>
 
-
-<!-- DASHBOARD IMAGE -->
-
-<div align="center">
+  <!-- Dashboard Image -->
   <img 
     src="https://cdn.dribbble.com/userupload/19599497/file/original-f7b3e9e0794f0b580a84f09407b2e3ec.gif"
     alt="Analytics Dashboard Preview"
-    width="40%"
+    height="200"
   />
+
 </div>
