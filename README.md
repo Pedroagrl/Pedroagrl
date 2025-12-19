@@ -71,8 +71,8 @@
 
 <div align="center">
   <img 
-    src="assets/dashboard.png"
-    alt="Data Analytics Dashboard"
+    src="https://cdn.dribbble.com/userupload/19599497/file/original-f7b3e9e0794f0b580a84f09407b2e3ec.gif"
+    alt="Analytics Dashboard Preview"
     width="90%"
   />
 </div>
