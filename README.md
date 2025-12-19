@@ -14,7 +14,6 @@
     <a href="https://www.linkedin.com/in/pedroartur06/" target="_blank">here</a>
   </strong>
 </p>
-</p>
 
 <!-- DROPDOWN -->
 <details>
@@ -40,7 +39,7 @@
   <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white" height="40" />
 </p>
 
-<!-- CONTACTS (inside skills) -->
+<!-- CONTACTS -->
 <p align="left">
   <a href="mailto:pedroarturdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="38" />
@@ -52,7 +51,7 @@
 
 <hr/>
 
-<!-- Github Stats -->
+<!-- GitHub Stats -->
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; justify-content: flex-start;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=pedroagrl&show_icons=true&theme=gotham&cache_seconds=3600" 
@@ -67,6 +66,13 @@
 
 <hr/>
 
-<div align="left">
-  <img height="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<!-- DASHBOARD IMAGE -->
+<h3 align="center">📊 Analytics & Data Visualization</h3>
+
+<div align="center">
+  <img 
+    src="assets/dashboard.png"
+    alt="Data Analytics Dashboard"
+    width="90%"
+  />
 </div>
