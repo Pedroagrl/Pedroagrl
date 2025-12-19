@@ -64,7 +64,6 @@
   />
 </div>
 
-<hr/>
 
 <!-- DASHBOARD IMAGE -->
 
