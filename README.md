@@ -20,7 +20,7 @@
   <summary>👨‍💻 More about me</summary>
   
   - 💬 I am 19 years old, currently living in Brazil, and developing skills in Data Analysis, ETL, SQL, Python, and Power BI, with a strong interest in analytics and dashboards.
-  - 🧪 Experience with backend in Python and API development (FastAPI).
+  - 🧪 Experience with in Python and Power BI (Analytics).
   - ⚡ I like reading, whether it's a good book, comics, as well as watching movies and playing online games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
 </details>
 
