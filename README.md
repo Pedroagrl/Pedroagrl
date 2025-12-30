@@ -51,22 +51,15 @@
 
 <hr/>
 
-<!-- GITHUB ACTIVITY + ANALYTICS -->
+<!-- ANALYTICS DASHBOARD IMAGE -->
 
 <table align="center">
   <tr>
     <td align="center">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=pedroagrl&show_icons=true&theme=gotham&cache_seconds=3600"
-        alt="Pedro Artur's GitHub stats"
-        width="480"
-      />
-    </td>
-    <td align="center">
-      <img 
         src="https://cdn.dribbble.com/userupload/19599497/file/original-f7b3e9e0794f0b580a84f09407b2e3ec.gif"
         alt="Analytics Dashboard Preview"
-        width="400"
+        width="500"
       />
     </td>
   </tr>
