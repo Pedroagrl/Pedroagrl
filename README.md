@@ -4,7 +4,7 @@
 
 <!-- PRESENTATION -->
 <p align="left">
-  💻 Data Intern at Grupo Energisa, studying Computer Science and Database Technology in Fortaleza, Brazil.
+  💻 Data Analys, studying Computer Science and Database Technology in Fortaleza, Brazil.
 </p>
 
 <p align="left">
